@@ -29,4 +29,3 @@ Special thanks to Robert Kieffer for the original philosophy behind Backbone.
 http://github.com/broofa
 
 testing shippable.
-ddd
