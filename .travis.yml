@@ -3,3 +3,4 @@ node_js:
   - 0.8.14
 notifications:
   email: false
+commit_container: ragster/rags
