@@ -4,5 +4,5 @@ node_js:
 notifications:
   email: false
 archive: true
-commit_container: ragster/rags
+#commit_container: ragster/rags
 
