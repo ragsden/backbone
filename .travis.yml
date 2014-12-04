@@ -1,6 +1,8 @@
 language: node_js
 node_js:
   - 0.8.14
+before_script:
+  - git pull gh ddd
 notifications:
   email: false
 archive: true
