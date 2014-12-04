@@ -2,9 +2,9 @@ language: node_js
 node_js:
   - 0.8.14
 before_script:
-  - git pull gh ddd
+  - git pull origin master
 notifications:
   email: false
 archive: true
-commit_container: ragster/rags
+#commit_container: ragster/rags
 
