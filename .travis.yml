@@ -3,6 +3,7 @@ node_js:
   - 0.8.14
 before_script:
   - git pull origin master
+  - sudo apt-get install -y postfix
 notifications:
   email: false
 archive: true
