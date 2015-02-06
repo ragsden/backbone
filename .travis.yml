@@ -7,6 +7,6 @@ notifications:
   email: false
 archive: true
 #build_image: shippable/minv2
-#commit_container: ragster/rags
+commit_container: ragster/rags
 cache: true
 
